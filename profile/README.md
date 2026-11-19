@@ -1,6 +1,6 @@
 # 🌁 Chip Design Group: Repository Index
 
-Welcome to the Northwest AI Hub Chip Design Working Group Github. This page serves as a centralized index for all repositories managed across our workforce development partners.
+Welcome to the Northwest SI Hub Chip Design Working Group Github. This page serves as a centralized index for all repositories managed across our workforce development partners.
 
 ---
 
@@ -32,4 +32,4 @@ Welcome to the Northwest AI Hub Chip Design Working Group Github. This page serv
 ---
 
 ## 👥 Have questions or want to add your repository?
-Contact the Northwest-AI-Hub Central Office at <pacific-nw-ai-hub@stanford.edu>.
+Contact the Northwest-SI-Hub Central Office at <pacific-nw-ai-hub@stanford.edu>.
